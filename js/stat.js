@@ -8,7 +8,7 @@ var GAP = 10;
 var BAR_X = 130;
 var BAR_Y = 250;
 var BAR_WIDTH = 40;
-var BAR_GAP = 50;
+var BAR_GAP = 90;
 var BAR_BOT = 10;
 var barHeight = -150;
 
